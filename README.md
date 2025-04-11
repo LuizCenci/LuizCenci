@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Técnologias e Ferramentas
+Técnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,html,css,postgres)](https://skillicons.dev)
