@@ -1,10 +1,14 @@
 ## Welcome!
 ## About me
+From Brazil <br>
+
 Software Engineering student 
 <br>
 Back-end developer, focusing on web development
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,html,css,postgres)](https://skillicons.dev)
+-----------------------------------------------------------------------
+<br>
 
 <!--<div>
 <a href="https://github.com/LuizCenci">
